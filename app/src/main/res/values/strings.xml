@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CW</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Eat">Eat</string>
+    <string name="WorkOut">Work Out</string>
+    <string name="Bank">Calories in bank</string>
+    <string name="Today">Todays Earnings</string>
+    <string name="title_activity_eat">Eat</string>
+    <string name="title_activity_work_out">WorkOut</string>
+    <string name="Earn">You have to earn it!</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="Red">2200 Calories</string>
+    <string name="Tacos">150 Calories</string>
+    <string name="CD">1500 Calories</string>
+    <string name="title_activity_successful_purchase">SuccessfulPurchase</string>
+    <string name="Red2">Red Velvet Successfully Purchased</string>
+    <string name="Tacos2">Tacos Successfully Purchased</string>
+    <string name="CD2">Cool Drink Successfully Purchased</string>
+    <string name="main">Main Menu</string>
+    <string name="RC">Remaining Calories</string>
+    <string name="title_activity_workout">Workout</string>
+    <string name="title_activity_successful_purchase_c">SuccessfulPurchaseC</string>
+    <string name="title_activity_successful_purchase_t">SuccessfulPurchaseT</string>
+    <string name="title_activity_successful_purchase_cd">SuccessfulPurchaseCD</string>
+    <string name="title_activity_start_wo">StartWO</string>
+    <string name="random1">random really?</string>
+    <string name="loseweight">Lose Weight</string>
+       <string name="WS">Workout Session</string>
+    <string name="CB">Calories Burnt</string>
+    <string name="Time">Time finished</string>
+    <string name="Stop">Stop</string>
+    <string name="Start">Start</string>
+</resources>
